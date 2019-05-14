@@ -7,7 +7,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
  
 public class WriteJSONExample
-{
+{ 
     @SuppressWarnings("unchecked")
     public static void main( String[] args )
     {
